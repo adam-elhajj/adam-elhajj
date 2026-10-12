@@ -17,6 +17,8 @@
 - [Buck Converter](https://github.com/adam-elhajj/buck-converter-ltspice) — 12V→5V LTspice design, 94.15% simulated efficiency, 3.78 mV ripple
 - [GridPulse](https://github.com/adam-elhajj/gridpulse) — Autonomous EV charger monitoring & fault mitigation
 - [EV Telemetry Monitor](https://github.com/adam-elhajj/ev-telemetry-monitor) — Production-grade Python pipeline, 27 tests, 94% coverage
+- [Engineering Graphics](https://github.com/adam-elhajj/Engineering-Graphics-Portfolio) — Technical drafting portfolio; AutoCAD, ANSI/ISO standards, GD&T
+- [Elastic Propulsion Vehicle](https://github.com/adam-elhajj/Constrained-Elastic-Propulsion-Vehicle) — 9.0+ ft range from a 5×5×5 in envelope
 
 ## 🎯 Currently
 Seeking a **Summer 2027 Electrical Engineering co-op** in the Windsor, Ontario area.
